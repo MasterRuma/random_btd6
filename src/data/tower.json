@@ -1,0 +1,109 @@
+[
+  {
+    "kr_tower": "다트 원숭이",
+    "en_tower": "Dart Monkey",
+    "category": "primary"
+  },
+  {
+    "kr_tower": "부메랑 원숭이",
+    "en_tower": "Boomerang Monkey",
+    "category": "primary"
+  },
+  {
+    "kr_tower": "폭탄 슈터",
+    "en_tower": "Bomb Shooter",
+    "category": "primary"
+  },
+  {
+    "kr_tower": "압정 슈터",
+    "en_tower": "Tack Shooter",
+    "category": "primary"
+  },
+  {
+    "kr_tower": "얼음 원숭이",
+    "en_tower": "Ice Monkey",
+    "category": "primary"
+  },
+  { "kr_tower": "글루 사수", "en_tower": "Glue Gunner", "category": "primary" },
+
+  {
+    "kr_tower": "저격 원숭이",
+    "en_tower": "Sniper Monkey",
+    "category": "military"
+  },
+  {
+    "kr_tower": "멍키 잠수함",
+    "en_tower": "Monkey Sub",
+    "category": "military"
+  },
+  {
+    "kr_tower": "해적 원숭이",
+    "en_tower": "Monkey Buccaneer",
+    "category": "military"
+  },
+  {
+    "kr_tower": "에이스 원숭이",
+    "en_tower": "Monkey Ace",
+    "category": "military"
+  },
+  {
+    "kr_tower": "헬기 조종사",
+    "en_tower": "Heli Pilot",
+    "category": "military"
+  },
+  {
+    "kr_tower": "박격포 원숭이",
+    "en_tower": "Mortar Monkey",
+    "category": "military"
+  },
+  {
+    "kr_tower": "다트포 사수",
+    "en_tower": "Dartling Gunner",
+    "category": "military"
+  },
+
+  {
+    "kr_tower": "마법사 원숭이",
+    "en_tower": "Wizard Monkey",
+    "category": "magic"
+  },
+  {
+    "kr_tower": "슈퍼 원숭이",
+    "en_tower": "Super Monkey",
+    "category": "magic"
+  },
+  {
+    "kr_tower": "닌자 원숭이",
+    "en_tower": "Ninja Monkey",
+    "category": "magic"
+  },
+  { "kr_tower": "연금술사", "en_tower": "Alchemist", "category": "magic" },
+  { "kr_tower": "드루이드", "en_tower": "Druid", "category": "magic" },
+  { "kr_tower": "바다원숭이", "en_tower": "Mermonkey", "category": "magic" },
+
+  {
+    "kr_tower": "바나나 농장",
+    "en_tower": "Banana Farm",
+    "category": "support"
+  },
+  {
+    "kr_tower": "스파이크 공장",
+    "en_tower": "Spike Factory",
+    "category": "support"
+  },
+  {
+    "kr_tower": "원숭이 마을",
+    "en_tower": "Monkey Village",
+    "category": "support"
+  },
+  {
+    "kr_tower": "엔지니어 원숭이",
+    "en_tower": "Engineer Monkey",
+    "category": "support"
+  },
+  {
+    "kr_tower": "맹수 조련사",
+    "en_tower": "Beast Handler",
+    "category": "support"
+  }
+]

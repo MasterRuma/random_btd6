@@ -1,0 +1,397 @@
+[
+  {
+    "difficulty": "beginner",
+    "en_map": "Monkey Meadow",
+    "kr_map": "원숭이 초원"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Tree Stump",
+    "kr_map": "나무 그루터기"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Town Center",
+    "kr_map": "타운 센터"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Spa Pits",
+    "kr_map": "노천탕"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Tinkerton",
+    "kr_map": "팅커튼"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Middle of the Road",
+    "kr_map": "길 한복판"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "One Two Tree",
+    "kr_map": "원, 투, 트리"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Scrapyard",
+    "kr_map": "고철 처리장"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "The Cabin",
+    "kr_map": "오두막집"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Resort",
+    "kr_map": "리조트"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Skates",
+    "kr_map": "스케이트장"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Lotus Island",
+    "kr_map": "연꽃섬"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Candy Falls",
+    "kr_map": "캔디 폭포"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Winter Park",
+    "kr_map": "겨울 공원"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Carved",
+    "kr_map": "호박등"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Park Path",
+    "kr_map": "공원로"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Alpine Run",
+    "kr_map": "알프스 등반"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Frozen Over",
+    "kr_map": "꽁꽁 얼음"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "In The Loop",
+    "kr_map": "루프 속에서"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Cubism",
+    "kr_map": "입체파"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Four Circles",
+    "kr_map": "네 개의 원"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Hedge",
+    "kr_map": "울타리"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "End of the Road",
+    "kr_map": "길의 끝"
+  },
+  {
+    "difficulty": "beginner",
+    "en_map": "Logs",
+    "kr_map": "통나무"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Luminous Cove",
+    "kr_map": "어스름 만"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Sulfur Springs",
+    "kr_map": "유황천"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Water Park",
+    "kr_map": "워터 파크"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Polyphemus",
+    "kr_map": "폴리페모스"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Covered Garden",
+    "kr_map": "지붕 정원"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Quarry",
+    "kr_map": "채석장"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Quiet Street",
+    "kr_map": "조용한 거리"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Bloonarius Prime",
+    "kr_map": "블루나리우스 프라임"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Balance",
+    "kr_map": "밸런스"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Encrypted",
+    "kr_map": "암호화"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Bazaar",
+    "kr_map": "바자회"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Adora's Temple",
+    "kr_map": "아도라의 사원"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Spring Spring",
+    "kr_map": "봄이 깡총깡총"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "KartsNDarts",
+    "kr_map": "카트앤다트"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Moon Landing",
+    "kr_map": "달 착륙"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Haunted",
+    "kr_map": "귀신 나오는"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Downstream",
+    "kr_map": "하류"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Firing Range",
+    "kr_map": "사격장"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Cracked",
+    "kr_map": "갈라진 땅"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Streambed",
+    "kr_map": "강바닥"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Chutes",
+    "kr_map": "홈통"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Rake",
+    "kr_map": "갈퀴"
+  },
+  {
+    "difficulty": "intermediate",
+    "en_map": "Spice Islands",
+    "kr_map": "향신료 제도"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Enchanted Glade",
+    "kr_map": "신비로운 동산"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Last Resort",
+    "kr_map": "최후의 리조트"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Ancient Portal",
+    "kr_map": "고대의 차원문"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Castle Revenge",
+    "kr_map": "복수성"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Dark Path",
+    "kr_map": "어두운 산책로"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Erosion",
+    "kr_map": "침식"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Midnight Mansion",
+    "kr_map": "한밤중의 저택"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Sunken Columns",
+    "kr_map": "잠긴 기둥"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "X factor",
+    "kr_map": "X 인자"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Mesa",
+    "kr_map": "메사"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Geared",
+    "kr_map": "톱니바퀴"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Spillway",
+    "kr_map": "배수로"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Cargo",
+    "kr_map": "화물"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Pat's Pond",
+    "kr_map": "팻의 연못"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Peninsula",
+    "kr_map": "반도"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "High Finance",
+    "kr_map": "고비용"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Another Brick",
+    "kr_map": "또 다른 벽돌"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Off The Coast",
+    "kr_map": "바닷가 근처"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Cornfield",
+    "kr_map": "옥수수밭"
+  },
+  {
+    "difficulty": "advanced",
+    "en_map": "Underground",
+    "kr_map": "지하"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Glacial Trail",
+    "kr_map": "빙하의 길"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Dark Dungeons",
+    "kr_map": "어두운 지하감옥"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Sanctuary",
+    "kr_map": "성소"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Ravine",
+    "kr_map": "협곡"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Flooded Valley",
+    "kr_map": "홍수 계곡"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Infernal",
+    "kr_map": "불지옥"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Bloody Puddles",
+    "kr_map": "고난의 웅덩이"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Workshop",
+    "kr_map": "작업장"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Quad",
+    "kr_map": "사각형"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Dark Castle",
+    "kr_map": "암흑의 성"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Muddy Puddles",
+    "kr_map": "진흙탕"
+  },
+  {
+    "difficulty": "expert",
+    "en_map": "Ouch",
+    "kr_map": "아야"
+  }
+]
