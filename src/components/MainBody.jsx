@@ -85,7 +85,7 @@ const MainBody = () => {
         border="1"
         style={{
           borderCollapse: "collapse",
-          tableLayout: "fixed", // 🔐 고정 레이아웃
+          tableLayout: "fixed",
           width: "90%",
           textAlign: "center",
         }}
@@ -98,7 +98,6 @@ const MainBody = () => {
           </tr>
         </thead>
         <tbody>
-          {/* 1행: 이미지 */}
           <tr>
             {revealed.map((item, idx) => (
               <td key={idx}>
@@ -115,15 +114,11 @@ const MainBody = () => {
               </td>
             ))}
           </tr>
-
-          {/* 3행: 한국어 이름 */}
           <tr>
             {revealed.map((item, idx) => (
               <td key={idx}>{item?.kr || "-"}</td>
             ))}
           </tr>
-
-          {/* 4행: 뽑기 버튼 */}
           <tr>
             {labels.map((_, index) => (
               <td key={index}>
