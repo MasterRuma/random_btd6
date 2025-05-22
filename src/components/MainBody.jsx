@@ -40,7 +40,7 @@ const MainBody = () => {
     };
   };
 
-  const makeTowerHandler = (category) => () => {
+  const handleTower = (category) => () => {
     const filtered = TowerMap.filter((t) => t.category === category);
     const item = getRandomItem(filtered);
     const key = `../assets/tower/${item.en_tower}.webp`;
@@ -56,10 +56,10 @@ const MainBody = () => {
   const handlers = [
     handleMap,
     handleHero,
-    makeTowerHandler("primary"),
-    makeTowerHandler("military"),
-    makeTowerHandler("magic"),
-    makeTowerHandler("support"),
+    handleTower("primary"),
+    handleTower("military"),
+    handleTower("magic"),
+    handleTower("support"),
   ];
 
   const handleClick = (index) => {
