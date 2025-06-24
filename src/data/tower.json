@@ -25,7 +25,11 @@
     "category": "primary"
   },
   { "kr_tower": "글루 사수", "en_tower": "Glue Gunner", "category": "primary" },
-
+  {
+    "kr_tower": "데스페라도",
+    "en_tower": "Desperado",
+    "category": "primary"
+  },
   {
     "kr_tower": "저격 원숭이",
     "en_tower": "Sniper Monkey",
